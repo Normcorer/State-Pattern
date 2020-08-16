@@ -424,4 +424,5 @@ public enum SkinEnum {
 ***
 
 > 博主是97年的，在杭州从事Java，如果有小伙伴，想要一起交流学习的，欢迎添加博主微信。
+
 ![weChat](https://molzhao-pic.oss-cn-beijing.aliyuncs.com/Common/WeChat.png)
